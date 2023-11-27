@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **DavidHervas12/DavidHervas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Nombre del Portfolio]
+# Portfolio
 
 Descripción corta sobre ti y tu enfoque profesional. Puedes incluir tus habilidades clave, tecnologías en las que te especializas o tipos de proyectos en los que estás interesado/a.
 
 ## Proyectos Destacados
 
-Enumera algunos de tus proyectos más relevantes, con una breve descripción de cada uno y los enlaces correspondientes.
+Soy un programador con sólidos conocimientos en desarrollo de software y un enfoque especial en la
+programación orientada a objetos. Poseo experiencia en proyectos académicos y prácticos, donde he adquirido
+habilidades en lenguajes de programación como C#, JavaScript, SQL y PHP, Java, entre otros, así como en el
+desarrollo de aplicaciones de escritorio, móviles y web. Soy una persona creativa, autodidacta y orientada a
+resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 
 ### [Nombre del Proyecto 1]
 
+![Texto alternativo](URL_de_la_imagen)
 - Breve descripción del proyecto.
 - Tecnologías utilizadas.
 - Enlace al proyecto o demo.
