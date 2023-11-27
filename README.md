@@ -1,24 +1,4 @@
-
-
-<!--
-**DavidHervas12/DavidHervas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Portfolio
-
-Descripción corta sobre ti y tu enfoque profesional. Puedes incluir tus habilidades clave, tecnologías en las que te especializas o tipos de proyectos en los que estás interesado/a.
-
-## Proyectos Destacados
+# DavidHervas12
 
 Soy un programador con sólidos conocimientos en desarrollo de software y un enfoque especial en la
 programación orientada a objetos. Poseo experiencia en proyectos académicos y prácticos, donde he adquirido
@@ -26,7 +6,15 @@ habilidades en lenguajes de programación como C#, JavaScript, SQL y PHP, Java, 
 desarrollo de aplicaciones de escritorio, móviles y web. Soy una persona creativa, autodidacta y orientada a
 resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 
-### [Nombre del Proyecto 1]
+## Portfolio
+
+### C#
+
+### SQL
+
+### CARHUB
+
+### React Native
 
 ![Texto alternativo](URL_de_la_imagen)
 - Breve descripción del proyecto.
@@ -34,7 +22,7 @@ resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 - Enlace al proyecto o demo.
 - Enlace al código fuente si está disponible.
 
-### [Nombre del Proyecto 2]
+### Java
 
 - Breve descripción del proyecto.
 - Tecnologías utilizadas.
@@ -52,9 +40,8 @@ Enumera las habilidades clave o tecnologías en las que eres competente. Puedes 
 
 ## Contacto
 
-- Email: tuemail@example.com
+- Email: david.hervas456@gmail.com
 - LinkedIn: [Perfil en LinkedIn](https://www.linkedin.com/tuperfil)
-- Sitio web personal: [Nombre del Sitio](https://www.tusitio.com)
 
 ## Cómo Contribuir
 
@@ -65,11 +52,5 @@ Siéntete libre de sugerir mejoras, corregir errores o hacer preguntas sobre los
 Indica la licencia de tu código si es aplicable. Por ejemplo:
 
 Este proyecto está bajo la licencia [Nombre de la Licencia]. Ver el archivo [LICENSE](/LICENSE) para más detalles.
-
-## Agradecimientos
-
-Si deseas agradecer a personas o fuentes que te hayan ayudado en tus proyectos, puedes hacerlo en esta sección.
-
----
 
 ¡Gracias por visitar mi portfolio! Espero que encuentres interesantes mis proyectos.
