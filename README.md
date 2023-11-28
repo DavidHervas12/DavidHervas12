@@ -8,39 +8,9 @@ resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 
 ## Portfolio
 
-### PHP
+[Gestor de archivos](https://github.com/DavidHervas12/Gestor_de_Archivos.git) 📂:
+[BookNook](https://github.com/DavidHervas12/BookNook_PHP.git) 📖:
 
-[BookNook](https://github.com/DavidHervas12/BookNook_PHP.git) :book:
-
-### C#
-
-### SQL
-
-### CARHUB
-
-### React Native
-
-![Texto alternativo](URL_de_la_imagen)
-- Breve descripción del proyecto.
-- Tecnologías utilizadas.
-- Enlace al proyecto o demo.
-- Enlace al código fuente si está disponible.
-
-### Java
-
-- Breve descripción del proyecto.
-- Tecnologías utilizadas.
-- Enlace al proyecto o demo.
-- Enlace al código fuente si está disponible.
-
-## Habilidades
-
-Enumera las habilidades clave o tecnologías en las que eres competente. Puedes utilizar una lista o simplemente mencionarlas.
-
-- Habilidad/Tecnología 1
-- Habilidad/Tecnología 2
-- Habilidad/Tecnología 3
-- ...
 
 ## Contacto
 
