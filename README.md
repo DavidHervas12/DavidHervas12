@@ -16,7 +16,7 @@ resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 [Gestor de empleados](https://github.com/DavidHervas12/Employee-entry-and-exit-management-application.git)🔧
 
 <img alt="Stargazers" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidHervas12&theme=github_dark">
-<img alt="Stargazers" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHervas12&theme=github_dark&exclude=">
+<img alt="Stargazers" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHervas12&theme=github_dark&exclude=Blade">
 
 
 
