@@ -17,6 +17,8 @@ resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 
 <img alt="Stargazers" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidHervas12&theme=github_dark">
 
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHervas12&theme=github_dark&exclude=
+
 ## Contacto
 
 - Email: david.hervas456@gmail.com
