@@ -3,11 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am David! Junior software developer
 </h3> 
 
-Soy un programador con sólidos conocimientos en desarrollo de software y un enfoque especial en la
-programación orientada a objetos. Poseo experiencia en proyectos académicos y prácticos, donde he adquirido
-habilidades en lenguajes de programación como C#, JavaScript, SQL y PHP, Java, entre otros, así como en el
-desarrollo de aplicaciones de escritorio, móviles y web. Soy una persona creativa, autodidacta y orientada a
-resultados, con una actitud positiva y dispuesta a aprender de forma constante.
+I am a programmer with solid knowledge in software development, particularly focused on object-oriented programming. I have experience in academic and practical projects, where I have acquired skills in programming languages such as C#, JavaScript, SQL, PHP, Java, among others, as well as in the development of desktop, mobile, and web applications. I am a creative, self-taught, and results-oriented person with a positive attitude and a constant willingness to learn.
 
 
 ## Portfolio
