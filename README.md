@@ -6,7 +6,7 @@
 I am a programmer with solid knowledge in software development, particularly focused on object-oriented programming. I have experience in academic and practical projects, where I have acquired skills in programming languages such as C#, JavaScript, SQL, PHP, Java, among others, as well as in the development of desktop, mobile, and web applications. I am a creative, self-taught, and results-oriented person with a positive attitude and a constant willingness to learn.
 
 
-## Portfolio
+## Projects
 
 [PetConnect CRM](https://github.com/DavidHervas12/PetConnect.git)🐶  
 [Aplicacion de mensajería Cliente-Servidor](https://github.com/DavidHervas12/Aplicacion_comunicacion_cliente_servidor.git)📧  
@@ -25,15 +25,3 @@ I am a programmer with solid knowledge in software development, particularly foc
 
 - Email: david.hervas456@gmail.com
 - LinkedIn: [Perfil en LinkedIn](https://www.linkedin.com/tuperfil)
-
-## Cómo Contribuir
-
-Siéntete libre de sugerir mejoras, corregir errores o hacer preguntas sobre los proyectos. Las contribuciones son bienvenidas a través de pull requests.
-
-## Licencia
-
-Indica la licencia de tu código si es aplicable. Por ejemplo:
-
-Este proyecto está bajo la licencia [Nombre de la Licencia]. Ver el archivo [LICENSE](/LICENSE) para más detalles.
-
-¡Gracias por visitar mi portfolio! Espero que encuentres interesantes mis proyectos.
