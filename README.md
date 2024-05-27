@@ -15,7 +15,7 @@ resultados, con una actitud positiva y dispuesta a aprender de forma constante.
 [CarHub](https://github.com/dreixxx/CarHub.git) 🚗  
 [Gestor de empleados](https://github.com/DavidHervas12/Employee-entry-and-exit-management-application.git)🔧
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={DavidHervas12}&theme={github_dark}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidHervas12&theme=github_dark
 ## Contacto
 
 - Email: david.hervas456@gmail.com
