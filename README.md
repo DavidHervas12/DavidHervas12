@@ -21,7 +21,7 @@ I am a programmer with solid knowledge in software development, particularly foc
 
 
 
-## Contacto
+## Contact
 
 - Email: david.hervas456@gmail.com
 - LinkedIn: [Perfil en LinkedIn](https://www.linkedin.com/tuperfil)
