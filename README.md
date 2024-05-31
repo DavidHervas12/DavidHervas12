@@ -8,8 +8,8 @@ I am a programmer with solid knowledge in software development, particularly foc
 
 ## Projects
 
-[PetConnect CRM](https://github.com/DavidHervas12/PetConnect.git)🐶 
-[OmniStream](https://github.com/DavidHervas12/Omnistream)📹  
+[PetConnect CRM](https://github.com/DavidHervas12/PetConnect.git)🐶  
+[OmniStream](https://github.com/DavidHervas12/Omnistream)🎬📹  
 [CarHub](https://github.com/dreixxx/CarHub.git) 🚗  
 [Aplicacion de mensajería Cliente-Servidor](https://github.com/DavidHervas12/Aplicacion_comunicacion_cliente_servidor.git)📧  
 [Gestor de Biblioteca](https://github.com/DavidHervas12/Gestor_de_Biblioteca.git) 📚  
